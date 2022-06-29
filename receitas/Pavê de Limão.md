@@ -1,4 +1,4 @@
- #  Strogonoff de Frango 🍋:
+ #  Pavê de limão 🍋:
 
  ### **INGREDIENTES**
  - _395 gramas de leite condensado_

@@ -1,4 +1,4 @@
- #  Strogonoff de Frango :chicken:
+ #  Strogonoff de Frango 🍋:
 
  ### **INGREDIENTES**
  - _395 gramas de leite condensado_

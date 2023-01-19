@@ -1,7 +1,6 @@
- # Livro de receitas 👨‍🍳
+ # Receitas Hub 👨‍🍳
 
-
-Olá!Bem vindo ao meu livro de receitas :wave:
+Repositório de receitas teste 
 
 - Strogonoff de Frango
 - Pavê de Limão
